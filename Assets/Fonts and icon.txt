@@ -1,0 +1,47 @@
+UI Copywriting Lab
+Assets Information
+
+Fonts Used
+----------
+Primary Font:
+- Poppins
+
+Alternative Fonts:
+- Inter
+- Roboto
+
+Icons Used
+----------
+- Material Symbols
+- Font Awesome Free
+- Heroicons
+- Feather Icons
+
+Color Palette
+-------------
+Primary Color: #6C63FF
+Secondary Color: #8B5CF6
+Background: #F8F9FC
+Text Color: #1F2937
+Success: #22C55E
+Error: #EF4444
+
+Design Style
+------------
+- Minimal UI
+- Modern Design
+- Rounded Corners
+- Soft Shadows
+- Clean Typography
+
+Screens Included
+----------------
+1. Login Screen
+2. Sign Up Screen
+3. Forgot Password Screen
+4. Checkout Screen
+
+Project
+-------
+CodeTech IT Solutions Internship
+Task 3: UI Copywriting Lab
