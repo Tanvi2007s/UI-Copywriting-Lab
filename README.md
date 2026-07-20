@@ -62,4 +62,4 @@ This project explores UI copywriting, also known as UX writing, which focuses on
 
 ## Author
 
-TANVI 
+TANVI MAHOLKAR
